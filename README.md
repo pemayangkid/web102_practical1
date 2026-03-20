@@ -103,7 +103,9 @@ Routes correctly structured
 Documentation accessible
 
 # Resources
-
+Node.js Documentation. (n.d.). Available at: https://nodejs.org
+Mozilla Developer Network (MDN). (n.d.). HTTP Methods. Available at: https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+GeeksforGeeks. (n.d.). Express.js Tutorial. Retrieved March 16, 2026, from https://www.geeksforgeeks.org/express-js/
 
 Run Locally
 npm install

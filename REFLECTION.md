@@ -11,16 +11,16 @@ Endpoints were created for resources such as users, posts, comments, likes, and 
 -> Express Server Setup
 A server was built using Express, along with middleware like morgan, cors, and helmet to handle logging, security, and requests.
 
--> Controllers and Routes
+-> Controllers and Routes.
 The project was divided into controllers and routes. Controllers handled the logic, while routes defined the endpoints. This separation made the code easier to manage.
 
--> Middleware Implementation
+-> Middleware Implementation.
 Custom middleware was used for handling errors, managing async functions, and formatting responses. This helped keep the code clean and reusable.
 
--> Content Negotiation
+-> Content Negotiation.
 A middleware was added to control how responses are formatted, depending on the request type.
 
--> Mock Data Usage
+-> Mock Data Usage.
 Mock data was used to simulate a database, allowing all endpoints to function without needing real storage.
 
 # What I Learned
